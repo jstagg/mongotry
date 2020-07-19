@@ -1,0 +1,40 @@
+db.Aliases.insert([{
+            "Alias": "ABC123",
+            "Type": "Mfr",
+            "AUom": "EA",
+            "Item": "ABC123",
+            "SUom": "EA",
+            "SOID": 1
+        }, {
+            "Alias": "ABC-123",
+            "Type": "Em",
+            "AUom": "EA",
+            "Item": "ABC123",
+            "SUom": "EA",
+            "SOID": 1
+        }, {
+            "Alias": "UNV123",
+            "Type": "Com",
+            "Item": "ABC123",
+            "SUom": "EA",
+            "SOID": 1
+        }, {
+            "Alias": "BSN123",
+            "Type": "Prop",
+            "Item": "ABC123",
+            "SUom": "EA",
+            "SOID": 1
+        }, {
+            "Alias": "ABC456",
+            "Type": "Mfr",
+            "Item": "ABC123",
+            "SUom": "PK",
+            "SOID": 2
+        }, {
+            "Alias": "ABC456A",
+            "Type": "Rep",
+            "Item": "ABC123",
+            "SUom": "PK",
+            "SOID": 2
+        }
+    ])
